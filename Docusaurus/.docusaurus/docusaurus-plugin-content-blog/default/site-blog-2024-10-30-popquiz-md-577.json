@@ -1,0 +1,67 @@
+{
+  "permalink": "/242saurus/blog/POP-QUIZ",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-10-30-POPQUIZ.md",
+  "source": "@site/blog/2024-10-30-POPQUIZ.md",
+  "title": "Pop Quiz",
+  "description": "This is our POP QUIZ posting!",
+  "date": "2024-10-30T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "POPQUIZ",
+      "permalink": "/242saurus/blog/tags/popquiz"
+    },
+    {
+      "inline": true,
+      "label": "WEEK07",
+      "permalink": "/242saurus/blog/tags/week-07"
+    }
+  ],
+  "readingTime": 0.455,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Favian Zhafif Rizqullah Permana",
+      "title": "CS Student in Universitas Indonesia",
+      "url": "https://github.com/favianzhafif26",
+      "page": {
+        "permalink": "/242saurus/blog/authors/favianzhafif-26"
+      },
+      "socials": {
+        "github": "https://github.com/favianzhafif26"
+      },
+      "imageURL": "https://i.pinimg.com/736x/c7/79/12/c77912540ae464241aa60ca73320f916.jpg",
+      "key": "favianzhafif26"
+    },
+    {
+      "name": "Muhammad Adiansyah",
+      "title": "CS Student in Universitas Indonesia",
+      "url": "https://github.com/Adiieeee",
+      "page": {
+        "permalink": "/242saurus/blog/authors/adiieeee"
+      },
+      "socials": {
+        "github": "https://github.com/Adiieeee"
+      },
+      "imageURL": "https://connectanatolia.com/upload/product/410x300/638216469087823630tost-peyniri-tam-yagli-600-g-idznc2hu00ud.jpg",
+      "key": "Adiieeee"
+    }
+  ],
+  "frontMatter": {
+    "slug": "POP-QUIZ",
+    "title": "Pop Quiz",
+    "authors": [
+      "favianzhafif26",
+      "Adiieeee"
+    ],
+    "tags": [
+      "POPQUIZ",
+      "WEEK07"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/242saurus/blog/welcome"
+  }
+}

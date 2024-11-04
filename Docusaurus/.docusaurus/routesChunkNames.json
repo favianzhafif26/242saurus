@@ -1,0 +1,345 @@
+{
+  "/242saurus/blog-760": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ed729995"
+      },
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "72828ae9"
+  },
+  "/242saurus/blog/archive-d4f": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "5ce34401"
+  },
+  "/242saurus/blog/authors-735": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "787eb731"
+  },
+  "/242saurus/blog/authors/adiieeee-c21": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "ed729995"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "23c3ee90"
+  },
+  "/242saurus/blog/authors/all-sebastien-lorber-articles-fcc": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "fa962632"
+  },
+  "/242saurus/blog/authors/favianzhafif-26-917": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "ed729995"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "0e81123a"
+  },
+  "/242saurus/blog/authors/yangshun-421": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "87172787"
+  },
+  "/242saurus/blog/first-blog-post-3db": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/242saurus/blog/long-blog-post-b29": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/242saurus/blog/mdx-blog-post-31a": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/242saurus/blog/POP-QUIZ-167": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "57739956"
+  },
+  "/242saurus/blog/tags-eec": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "7f489ceb"
+  },
+  "/242saurus/blog/tags/docusaurus-855": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "100e94d9"
+  },
+  "/242saurus/blog/tags/facebook-be7": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "__props": "7987902f"
+  },
+  "/242saurus/blog/tags/hello-9a3": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "__props": "ecbdb0e1"
+  },
+  "/242saurus/blog/tags/hola-777": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "5bed44a5"
+  },
+  "/242saurus/blog/tags/popquiz-15d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ed729995"
+      }
+    ],
+    "__props": "fb558c82"
+  },
+  "/242saurus/blog/tags/week-07-bdb": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ed729995"
+      }
+    ],
+    "__props": "90cf2cb6"
+  },
+  "/242saurus/blog/welcome-c00": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/242saurus/markdown-page-8ba": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/242saurus/docs-1e0": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/242saurus/docs-e1f": {
+    "__comp": "a7bd4aaa",
+    "__props": "bce4327f"
+  },
+  "/242saurus/docs-e43": {
+    "__comp": "a94703ab"
+  },
+  "/242saurus/docs/category/tutorial---basics-75e": {
+    "__comp": "14eb3368",
+    "__props": "f2ef71e6"
+  },
+  "/242saurus/docs/category/tutorial---extras-9d2": {
+    "__comp": "14eb3368",
+    "__props": "02b20c39"
+  },
+  "/242saurus/docs/intro-e34": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/242saurus/docs/tutorial-basics/congratulations-11a": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/242saurus/docs/tutorial-basics/create-a-blog-post-700": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/242saurus/docs/tutorial-basics/create-a-document-e8f": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/242saurus/docs/tutorial-basics/create-a-page-5d1": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/242saurus/docs/tutorial-basics/deploy-your-site-6b2": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/242saurus/docs/tutorial-basics/markdown-features-856": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/242saurus/docs/tutorial-extras/manage-docs-versions-116": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/242saurus/docs/tutorial-extras/translate-your-site-dcf": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/242saurus/-58f": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}
